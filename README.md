@@ -1,21 +1,21 @@
-# iot-exemplo-repositorio
+# Projeto: Vamos ligar o LED!
 
-Discente: Ícaro Caldeira Botelho
+**Discente:** Sophia Lara Hardt
 
-Docente: Amanda Paul Dull
+**Docente:** Amanda Paul Dull
 
-Esse repositório serve de exemplo para a entrega de atividades da matéria de IoT.
+Este repositório apresenta a entrega da atividade de IoT **“Vamos ligar o LED!”**, desenvolvida utilizando Arduino e simulada no Tinkercad.
 
-[![Simular no Tinkercad](https://img.shields.io/badge/Simular%20no-Tinkercad-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/gzcCF6GhFek-acendedor-de-led-3000?sharecode=oJlNj4IwWi4yJ-hbwXRkpEibq6Wei9GqDSi0qM2b9bM)
+[![Simular no Tinkercad](https://img.shields.io/badge/Simular%20no-Tinkercad-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/2bnN2aiysKi-projeto-ligar-led/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard)
 
-## Enunciado: Vamos ligar o LED!
+## Descrição da atividade: Vamos ligar o LED!
 
-O projeto vai utilizar um botão como entrada para controlar um LED como saída. Ao pressionar o botão, o Arduino altera o estado do LED — cada clique liga ou desliga, funcionando como um interruptor eletrônico.
+O projeto utiliza um **botão como entrada** para controlar um **LED como saída**. Ao pressionar o botão, o Arduino altera o estado do LED. Cada clique liga ou desliga o LED, funcionando como um interruptor eletrônico.
 
-- O Arduino lê o estado do botão pelo **pino 7**
-- Controla o LED pelo **pino 10**
+- O Arduino lê o estado do botão pelo **pino 7**.
+- O Arduino controla o LED pelo **pino 10**.
 
-## Materiais necessários
+## Materiais utilizados
 
 | Qtd | Componente |
 |-----|------------|
